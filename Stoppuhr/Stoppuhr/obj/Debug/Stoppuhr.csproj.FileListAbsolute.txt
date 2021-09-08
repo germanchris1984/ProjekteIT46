@@ -1,0 +1,10 @@
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\bin\Debug\Stoppuhr.exe.config
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\bin\Debug\Stoppuhr.exe
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\bin\Debug\Stoppuhr.pdb
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\obj\Debug\Stoppuhr.csprojAssemblyReference.cache
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\obj\Debug\Stoppuhr.Form1.resources
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\obj\Debug\Stoppuhr.Properties.Resources.resources
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\obj\Debug\Stoppuhr.csproj.GenerateResource.cache
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\obj\Debug\Stoppuhr.csproj.CoreCompileInputs.cache
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\obj\Debug\Stoppuhr.exe
+C:\Users\Sengbusch Christian\source\repos\Stoppuhr\Stoppuhr\obj\Debug\Stoppuhr.pdb

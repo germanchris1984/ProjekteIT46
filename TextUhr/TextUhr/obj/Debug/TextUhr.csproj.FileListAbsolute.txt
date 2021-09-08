@@ -1,0 +1,20 @@
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\bin\Debug\TextUhr.exe.config
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\bin\Debug\TextUhr.exe
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\bin\Debug\TextUhr.pdb
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.csprojAssemblyReference.cache
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.Form1.resources
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.Properties.Resources.resources
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.csproj.GenerateResource.cache
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.csproj.CoreCompileInputs.cache
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.exe
+C:\Users\Sengbusch Christian\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.pdb
+C:\Users\urubo\source\repos\TextUhr\TextUhr\bin\Debug\TextUhr.exe.config
+C:\Users\urubo\source\repos\TextUhr\TextUhr\bin\Debug\TextUhr.exe
+C:\Users\urubo\source\repos\TextUhr\TextUhr\bin\Debug\TextUhr.pdb
+C:\Users\urubo\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.csproj.AssemblyReference.cache
+C:\Users\urubo\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.Form1.resources
+C:\Users\urubo\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.Properties.Resources.resources
+C:\Users\urubo\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.csproj.GenerateResource.cache
+C:\Users\urubo\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.csproj.CoreCompileInputs.cache
+C:\Users\urubo\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.exe
+C:\Users\urubo\source\repos\TextUhr\TextUhr\obj\Debug\TextUhr.pdb
